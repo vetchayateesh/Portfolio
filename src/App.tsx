@@ -12,7 +12,7 @@ import CustomCursor from './components/CustomCursor';
 function App() {
   useEffect(() => {
     // Update document title
-    document.title = 'Maniteja Gaddam | AI Developer & Creative Technologist';
+    document.title = 'Vetcha Yateesh | web Developer';
   }, []);
 
   return (
